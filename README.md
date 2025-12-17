@@ -15,6 +15,9 @@ A visually immersive **3D galaxy-themed personal portfolio** built using **HTML,
 - JavaScript (ES6)
 - 3D effects / Canvas / Three.js (if used)
 
+## 📸 Preview
+![Preview](assets/images/preview.png)
+
 ## 🌐 Live Demo
 https://omkarghare8803.github.io/Personal-3D-Galaxy-Portfolio/
 
