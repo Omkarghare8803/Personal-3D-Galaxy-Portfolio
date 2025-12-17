@@ -19,4 +19,4 @@ A visually immersive **3D galaxy-themed personal portfolio** built using **HTML,
 https://omkarghare8803.github.io/Personal-3D-Galaxy-Portfolio/
 
 ## 🙌 Author
-**Omkar Ghare**
+**Omkar R. Ghare**
